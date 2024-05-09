@@ -1,0 +1,1592 @@
+{
+  "1164038524": {
+    "userID": "1164038524",
+    "name": "Lance Lucas",
+    "vanity": "lancelucas.dev",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714526875492
+    },
+    "lastUpdate": 1714526875492
+  },
+  "100084449196664": {
+    "userID": "100084449196664",
+    "name": "Senku",
+    "vanity": "",
+    "gender": 2,
+    "money": 0,
+    "createTime": {
+      "timestamp": 1714488470245
+    },
+    "data": {
+      "timestamp": 1714487857883
+    },
+    "lastUpdate": 1714488470245,
+    "lastClaimTime": 1715051361175,
+    "lastRobTime": 1715056858012
+  },
+  "61557836472883": {
+    "userID": "61557836472883",
+    "name": "Yua Lovesu",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714482701752
+    },
+    "data": {
+      "timestamp": 1714482701752
+    },
+    "lastUpdate": 1714482701752
+  },
+  "61557012154677": {
+    "userID": "61557012154677",
+    "name": "Yakiro Wyatt",
+    "vanity": "yakiro.wyatt",
+    "gender": 2,
+    "money": 0,
+    "createTime": {
+      "timestamp": 1714487582720
+    },
+    "data": {
+      "timestamp": 1714487582720
+    },
+    "lastUpdate": 1714487582720,
+    "lastClaimTime": 1714545869420,
+    "lastRobTime": 1714547645427
+  },
+  "100034065047763": {
+    "userID": "100034065047763",
+    "name": "Aziel Gustavo",
+    "vanity": "jul.davenport",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714487565491
+    },
+    "data": {
+      "timestamp": 1714487565491
+    },
+    "lastUpdate": 1714487565491
+  },
+  "61550963611446": {
+    "userID": "61550963611446",
+    "name": "Jea Shimizu",
+    "vanity": "ayase.hironaka",
+    "gender": 1,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714488328431
+    },
+    "lastUpdate": 1714488328431
+  },
+  "100088309851834": {
+    "userID": "100088309851834",
+    "name": "Prince Sanel Osorio 󱢏 ⚜️💎👑",
+    "vanity": "randomlyreaperr",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714488368023
+    },
+    "lastUpdate": 1714488368023
+  },
+  "61556948576567": {
+    "userID": "61556948576567",
+    "name": "Kazuto Kirigaya",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714488370926
+    },
+    "lastUpdate": 1714488370926
+  },
+  "61557546073519": {
+    "userID": "61557546073519",
+    "name": "Riri Bot",
+    "vanity": "",
+    "gender": 1,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714488372309
+    },
+    "lastUpdate": 1714488372309
+  },
+  "100063511135403": {
+    "userID": "100063511135403",
+    "name": "Ashley Nicole",
+    "vanity": "HiroshiKaiii",
+    "gender": 1,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714488420918
+    },
+    "lastUpdate": 1714488420918
+  },
+  "61558014946967": {
+    "userID": "61558014946967",
+    "name": "Known As Eugene",
+    "vanity": "eurix.sy",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714489580650
+    },
+    "lastUpdate": 1714489580650
+  },
+  "61559147277901": {
+    "userID": "61559147277901",
+    "name": "Totong Kagandahan",
+    "vanity": "",
+    "gender": 1,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714489581300
+    },
+    "lastUpdate": 1714489581300
+  },
+  "100023169305452": {
+    "userID": "100023169305452",
+    "name": "William Masaclao",
+    "vanity": "LearnFromHaste",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714489635052
+    },
+    "lastUpdate": 1714489635052
+  },
+  "100087196276636": {
+    "userID": "100087196276636",
+    "name": "Jasrel ヘ",
+    "vanity": "jasrelking17",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714489749445
+    },
+    "lastUpdate": 1714489749445
+  },
+  "100047545013107": {
+    "userID": "100047545013107",
+    "name": "Marjhun Baylon",
+    "vanity": "rootlocalhost.build",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714489780318
+    },
+    "lastUpdate": 1714489780318
+  },
+  "100048892837161": {
+    "userID": "100048892837161",
+    "name": "Algier Llana",
+    "vanity": "Hazeyy0",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714490049120
+    },
+    "lastUpdate": 1714490049120
+  },
+  "100070682046188": {
+    "userID": "100070682046188",
+    "name": "Aries Oliver",
+    "vanity": "Ariesoliver77",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714490077065
+    },
+    "lastUpdate": 1714490077065
+  },
+  "100084942163710": {
+    "userID": "100084942163710",
+    "name": "Unique's Riyad",
+    "vanity": "uniqueeyamin",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714496026544
+    },
+    "lastUpdate": 1714496026544
+  },
+  "100087504844291": {
+    "userID": "100087504844291",
+    "name": "Chiro Lynx",
+    "vanity": "",
+    "gender": 1,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714496027323
+    },
+    "lastUpdate": 1714496027323
+  },
+  "100014570224558": {
+    "userID": "100014570224558",
+    "name": "Kim Joseph DG Bien 🫥🫥🫥",
+    "vanity": "kimtzy2006",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714497132001
+    },
+    "lastUpdate": 1714497132001
+  },
+  "100092359574131": {
+    "userID": "100092359574131",
+    "name": "Berwin",
+    "vanity": "learnfromber",
+    "gender": 2,
+    "money": 199677143,
+    "createTime": {
+      "timestamp": 1714497758284
+    },
+    "lastUpdate": 1714497758284,
+    "lastRobTime": 1714553114163,
+    "lastClaimTime": 1715176840435
+  },
+  "61554222594723": {
+    "userID": "61554222594723",
+    "name": "Francis Loyd M. Raval",
+    "vanity": "certainly.francis",
+    "gender": 2,
+    "money": 750,
+    "createTime": {
+      "timestamp": 1714518362879
+    },
+    "lastUpdate": 1714518362879,
+    "lastClaimTime": 1714545917029
+  },
+  "100080625284044": {
+    "userID": "100080625284044",
+    "name": "Franklin L. Elison",
+    "vanity": "franksoweird.but.im.real.tho",
+    "gender": 6,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714518485016
+    },
+    "lastUpdate": 1714518485016
+  },
+  "61559210512954": {
+    "userID": "61559210512954",
+    "name": "Tangine Ke",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714518485393
+    },
+    "lastUpdate": 1714518485393
+  },
+  "61551105118826": {
+    "userID": "61551105118826",
+    "name": "Jake Ivan Poche",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714521218056
+    },
+    "lastUpdate": 1714521218056
+  },
+  "100055922021908": {
+    "userID": "100055922021908",
+    "name": "Betrayal Bishesh 󱢏",
+    "vanity": "bisheshxd",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714523006906
+    },
+    "lastUpdate": 1714523006906
+  },
+  "100088334332155": {
+    "userID": "100088334332155",
+    "name": "Shiki Machina",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714523547512
+    },
+    "lastUpdate": 1714523547512
+  },
+  "100075058221244": {
+    "userID": "100075058221244",
+    "name": "Liane Cagara 🎀",
+    "vanity": "nealiana.kaye.cagara",
+    "gender": 1,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714523753813
+    },
+    "lastUpdate": 1714523753813
+  },
+  "100080422647611": {
+    "userID": "100080422647611",
+    "name": "Ley Cardeñes",
+    "vanity": "",
+    "gender": 1,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714524013660
+    },
+    "lastUpdate": 1714524013660
+  },
+  "100089727346811": {
+    "userID": "100089727346811",
+    "name": "Mika",
+    "vanity": "",
+    "gender": 1,
+    "money": 10800,
+    "createTime": {
+      "timestamp": 1714525913584
+    },
+    "lastUpdate": 1714525913584
+  },
+  "100037363620456": {
+    "userID": "100037363620456",
+    "name": "Bundas Andrian",
+    "vanity": "bundas.andrian.0x1",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714526832996
+    },
+    "lastUpdate": 1714526832996
+  },
+  "61558870269983": {
+    "userID": "61558870269983",
+    "name": "Princess Jhoy",
+    "vanity": "",
+    "gender": 1,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714527174465
+    },
+    "lastUpdate": 1714527174465
+  },
+  "100055943906136": {
+    "userID": "100055943906136",
+    "name": "ジョシュア  ゲレロ ☣️",
+    "vanity": "joshg101",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714528156896
+    },
+    "lastUpdate": 1714528156896
+  },
+  "100068636765926": {
+    "userID": "100068636765926",
+    "name": "Rujen Constana",
+    "vanity": "rjncnstn",
+    "gender": 1,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714528514414
+    },
+    "lastUpdate": 1714528514414
+  },
+  "61558522490494": {
+    "userID": "61558522490494",
+    "name": "Kio Fordy",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714529040234
+    },
+    "lastUpdate": 1714529040234
+  },
+  "61557942646409": {
+    "userID": "61557942646409",
+    "name": "Shaira Claire",
+    "vanity": "",
+    "gender": 1,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714529044768
+    },
+    "lastUpdate": 1714529044768
+  },
+  "61556089975349": {
+    "userID": "61556089975349",
+    "name": "Yuri Jer",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714530080553
+    },
+    "lastUpdate": 1714530080553
+  },
+  "61552554206156": {
+    "userID": "61552554206156",
+    "name": "Mark Lee 🎧",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714530117873
+    },
+    "lastUpdate": 1714530117873
+  },
+  "100088404450028": {
+    "userID": "100088404450028",
+    "name": "Aya Nakamura",
+    "vanity": "",
+    "gender": 1,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714530390162
+    },
+    "lastUpdate": 1714530390162
+  },
+  "61550037082227": {
+    "userID": "61550037082227",
+    "name": "Jay  D. Bohol󱢏🍁🐾",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714530500105
+    },
+    "lastUpdate": 1714530500105
+  },
+  "61555661003036": {
+    "userID": "61555661003036",
+    "name": "Luis Manzàno",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714531277022
+    },
+    "lastUpdate": 1714531277022
+  },
+  "100065182415314": {
+    "userID": "100065182415314",
+    "name": "Khaile Soriano",
+    "vanity": "localhostsoriano",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714531578977
+    },
+    "lastUpdate": 1714531578977
+  },
+  "100077347857372": {
+    "userID": "100077347857372",
+    "name": "Aaron Pagaura",
+    "vanity": "DraculaBoi",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714532454640
+    },
+    "lastUpdate": 1714532454640
+  },
+  "100086556670534": {
+    "userID": "100086556670534",
+    "name": "Seia Duwidapdap",
+    "vanity": "whois.elleee",
+    "gender": 1,
+    "money": 1254,
+    "createTime": {
+      "timestamp": 1714532553193
+    },
+    "lastUpdate": 1714532553193,
+    "lastClaimTime": 1715051368964,
+    "lastRobTime": 1715051541729
+  },
+  "61556303200248": {
+    "userID": "61556303200248",
+    "name": "Kezea Ruther",
+    "vanity": "",
+    "gender": 1,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714533843330
+    },
+    "lastUpdate": 1714533843330
+  },
+  "100056946760260": {
+    "userID": "100056946760260",
+    "name": "Yuri Omki",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714534080605
+    },
+    "lastUpdate": 1714534080605
+  },
+  "100078910834620": {
+    "userID": "100078910834620",
+    "name": "Cid Kagenou",
+    "vanity": "fteqo",
+    "gender": 1,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714535029304
+    },
+    "lastUpdate": 1714535029304
+  },
+  "61559034243299": {
+    "userID": "61559034243299",
+    "name": "陽翔陸",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714535710022
+    },
+    "lastUpdate": 1714535710022
+  },
+  "61554944182925": {
+    "userID": "61554944182925",
+    "name": "ۦۦ ۦۦ",
+    "vanity": "",
+    "gender": 1,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714537584064
+    },
+    "lastUpdate": 1714537584064
+  },
+  "100077907220048": {
+    "userID": "100077907220048",
+    "name": "Gio Jvrks",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714537981748
+    },
+    "lastUpdate": 1714537981748
+  },
+  "61558558356991": {
+    "userID": "61558558356991",
+    "name": "Ziggy",
+    "vanity": "ziggy.test",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714538437628
+    },
+    "lastUpdate": 1714538437628
+  },
+  "100081963391222": {
+    "userID": "100081963391222",
+    "name": "Jumary Arellano",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714538613593
+    },
+    "lastUpdate": 1714538613593
+  },
+  "100092668630167": {
+    "userID": "100092668630167",
+    "name": "🧸 Jerome Jamis 👨‍💻",
+    "vanity": "jeromethepro",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714538664021
+    },
+    "lastUpdate": 1714538664021
+  },
+  "100054298824923": {
+    "userID": "100054298824923",
+    "name": "Rui Reogo",
+    "vanity": "ruinaigel.reogo.5",
+    "gender": 2,
+    "money": 1999,
+    "createTime": {
+      "timestamp": 1714538775188
+    },
+    "lastUpdate": 1714538775188
+  },
+  "61559183812834": {
+    "userID": "61559183812834",
+    "name": "Francis James Felicinity",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714539483418
+    },
+    "lastUpdate": 1714539483418
+  },
+  "100079110728389": {
+    "userID": "100079110728389",
+    "name": "Kenzo Hiroshi",
+    "vanity": "kenzoshin2006",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714540737504
+    },
+    "lastUpdate": 1714540737504
+  },
+  "100089954918723": {
+    "userID": "100089954918723",
+    "name": "Lance Ajiro",
+    "vanity": "lance.ajiro",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714543303534
+    },
+    "lastUpdate": 1714543303534
+  },
+  "100083679196124": {
+    "userID": "100083679196124",
+    "name": "Sake",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714544080340
+    },
+    "lastUpdate": 1714544080340
+  },
+  "100029182003642": {
+    "userID": "100029182003642",
+    "name": "Myuan Lloyd Neri Cabrito",
+    "vanity": "tentacion06",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714544319868
+    },
+    "lastUpdate": 1714544319868
+  },
+  "61550011623347": {
+    "userID": "61550011623347",
+    "name": "Charlie イ",
+    "vanity": "incognitotab.dev",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714544636322
+    },
+    "lastUpdate": 1714544636322
+  },
+  "100042306801554": {
+    "userID": "100042306801554",
+    "name": "jaeı sirvuıx",
+    "vanity": "ujfye",
+    "gender": 1,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714544732291
+    },
+    "lastUpdate": 1714544732291
+  },
+  "61557408521672": {
+    "userID": "61557408521672",
+    "name": "Donrel Silvano Inta ",
+    "vanity": "donrelsilvanointa",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714544776245
+    },
+    "lastUpdate": 1714544776245
+  },
+  "100074862084605": {
+    "userID": "100074862084605",
+    "name": "Arn ۦ",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714545543101
+    },
+    "lastUpdate": 1714545543101
+  },
+  "100071097139149": {
+    "userID": "100071097139149",
+    "name": "Jàyanne Matawaran",
+    "vanity": "",
+    "gender": 1,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714546119947
+    },
+    "lastUpdate": 1714546119947
+  },
+  "61554201747411": {
+    "userID": "61554201747411",
+    "name": "アギラー ユージン",
+    "vanity": "localhost.dev.91",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714547605903
+    },
+    "lastUpdate": 1714547605903
+  },
+  "100094202834302": {
+    "userID": "100094202834302",
+    "name": "Donrel Silvano Inta",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714547951892
+    },
+    "lastUpdate": 1714547951892
+  },
+  "100079676336089": {
+    "userID": "100079676336089",
+    "name": "Alzheimer AI",
+    "vanity": "",
+    "gender": 1,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714547952387
+    },
+    "lastUpdate": 1714547952387
+  },
+  "61557624525534": {
+    "userID": "61557624525534",
+    "name": "ber.",
+    "vanity": "localhostdev.xyz",
+    "gender": 2,
+    "money": 0,
+    "createTime": {
+      "timestamp": 1714549563284
+    },
+    "lastUpdate": 1714549563284,
+    "lastClaimTime": 1714549812459
+  },
+  "61556671770734": {
+    "userID": "61556671770734",
+    "name": "Nika Santos",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714551056689
+    },
+    "lastUpdate": 1714551056689
+  },
+  "100091459040153": {
+    "userID": "100091459040153",
+    "name": "Holy Kairu",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714554512747
+    },
+    "lastUpdate": 1714554512747
+  },
+  "100085330421655": {
+    "userID": "100085330421655",
+    "name": "Mark",
+    "vanity": "markflurry.25",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714555336132
+    },
+    "lastUpdate": 1714555336132
+  },
+  "61555788465228": {
+    "userID": "61555788465228",
+    "name": "Lucas",
+    "vanity": "lucas.hironaka",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714555890239
+    },
+    "lastUpdate": 1714555890239
+  },
+  "100050627237305": {
+    "userID": "100050627237305",
+    "name": "Jam Cumamao",
+    "vanity": "mia.live.3382",
+    "gender": 1,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714555911682
+    },
+    "lastUpdate": 1714555911682
+  },
+  "100081144393297": {
+    "userID": "100081144393297",
+    "name": "Jan Liby Dela Costa",
+    "vanity": "libyzxy0",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714557653789
+    },
+    "lastUpdate": 1714557653789
+  },
+  "100085789795933": {
+    "userID": "100085789795933",
+    "name": "Christian Jake Gañac",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714557894523
+    },
+    "lastUpdate": 1714557894523
+  },
+  "61557647438838": {
+    "userID": "61557647438838",
+    "name": "Aki Chan",
+    "vanity": "aki.chan.201556",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714565951973
+    },
+    "lastUpdate": 1714565951973
+  },
+  "100078460480764": {
+    "userID": "100078460480764",
+    "name": "Ziels Preset",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714566221450
+    },
+    "lastUpdate": 1714566221450
+  },
+  "100036956043695": {
+    "userID": "100036956043695",
+    "name": "Jonell Magallanes 󱢏",
+    "vanity": "propertynilove.magallnes",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714566583451
+    },
+    "lastUpdate": 1714566583451
+  },
+  "100076488601971": {
+    "userID": "100076488601971",
+    "name": "Ronald Allen Albania󱢏",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714566593724
+    },
+    "lastUpdate": 1714566593724
+  },
+  "100087646465792": {
+    "userID": "100087646465792",
+    "name": "Justine ChatBot",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714566671072
+    },
+    "lastUpdate": 1714566671072
+  },
+  "100090460245018": {
+    "userID": "100090460245018",
+    "name": "Justine ʚĩɞ Beloira 󱢏",
+    "vanity": "",
+    "gender": 2,
+    "money": 1401,
+    "createTime": {
+      "timestamp": 1714566679171
+    },
+    "lastUpdate": 1714566679171,
+    "lastClaimTime": 1714567158538
+  },
+  "100082580843320": {
+    "userID": "100082580843320",
+    "name": "John Dereck Medrano Oboza",
+    "vanity": "Johndereckmedranooboza",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714566693918
+    },
+    "lastUpdate": 1714566693918
+  },
+  "61559135010346": {
+    "userID": "61559135010346",
+    "name": "Mina Felicinity",
+    "vanity": "",
+    "gender": 1,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714568947164
+    },
+    "lastUpdate": 1714568947164
+  },
+  "100094144842129": {
+    "userID": "100094144842129",
+    "name": "Miranda Łouie",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714570169075
+    },
+    "lastUpdate": 1714570169075
+  },
+  "100072781749004": {
+    "userID": "100072781749004",
+    "name": "Julliana Reyes",
+    "vanity": "",
+    "gender": 1,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714575294451
+    },
+    "lastUpdate": 1714575294451
+  },
+  "100058347079829": {
+    "userID": "100058347079829",
+    "name": "Melton Alumbro",
+    "vanity": "Melton.15",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714576230414
+    },
+    "lastUpdate": 1714576230414
+  },
+  "100023682996253": {
+    "userID": "100023682996253",
+    "name": "Dianne",
+    "vanity": "deyuhhh",
+    "gender": 1,
+    "money": 0,
+    "createTime": {
+      "timestamp": 1714605934543
+    },
+    "lastUpdate": 1714605934543,
+    "lastClaimTime": 1714614105647
+  },
+  "100057648637336": {
+    "userID": "100057648637336",
+    "name": "Cyril Matt O. Encenso",
+    "vanity": "cyril.pumdal",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714606361481
+    },
+    "lastUpdate": 1714606361481
+  },
+  "100008698744166": {
+    "userID": "100008698744166",
+    "name": "Ron Zedric Laurente 󱢏 🪐 🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714611781876
+    },
+    "lastUpdate": 1714611781876
+  },
+  "100055970624167": {
+    "userID": "100055970624167",
+    "name": "Precious Robles",
+    "vanity": "preciousleira.robles.1",
+    "gender": 1,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714611836183
+    },
+    "lastUpdate": 1714611836183
+  },
+  "100015077388422": {
+    "userID": "100015077388422",
+    "name": "Samuel",
+    "vanity": "montebon.samuel.5",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714612256282
+    },
+    "lastUpdate": 1714612256282
+  },
+  "100054706067959": {
+    "userID": "100054706067959",
+    "name": "Kenlie Navacilla Jugarap",
+    "vanity": "kenlienjugarap",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714612498360
+    },
+    "lastUpdate": 1714612498360
+  },
+  "100062441630008": {
+    "userID": "100062441630008",
+    "name": "Ken Apolong",
+    "vanity": "ken.dqox",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714613247599
+    },
+    "lastUpdate": 1714613247599
+  },
+  "100060340563670": {
+    "userID": "100060340563670",
+    "name": "Samir Œ",
+    "vanity": "samir.oe70",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714614032378
+    },
+    "lastUpdate": 1714614032378
+  },
+  "100051724779220": {
+    "userID": "100051724779220",
+    "name": "Delfin Jay T. Dayunan",
+    "vanity": "djdayunan.tesado.3",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714616874876
+    },
+    "lastUpdate": 1714616874876
+  },
+  "61558914694242": {
+    "userID": "61558914694242",
+    "name": "Rui Conde",
+    "vanity": "",
+    "gender": 2,
+    "money": 11000,
+    "createTime": {
+      "timestamp": 1714618660178
+    },
+    "lastUpdate": 1714618660178
+  },
+  "100091607693557": {
+    "userID": "100091607693557",
+    "name": "Ace Turner",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714618768013
+    },
+    "lastUpdate": 1714618768013
+  },
+  "100071575183469": {
+    "userID": "100071575183469",
+    "name": "Saimum Sabik",
+    "vanity": "S41MUM.S4B1K",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714624386761
+    },
+    "lastUpdate": 1714624386761
+  },
+  "100070851690160": {
+    "userID": "100070851690160",
+    "name": "Rey Estacio",
+    "vanity": "reysyyy",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714624395094
+    },
+    "lastUpdate": 1714624395094
+  },
+  "61552152417198": {
+    "userID": "61552152417198",
+    "name": "Elle Sarmiento",
+    "vanity": "",
+    "gender": 1,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714632331043
+    },
+    "lastUpdate": 1714632331043
+  },
+  "100095276739409": {
+    "userID": "100095276739409",
+    "name": "ʚʬɞ Putra Raflesia ʚʬɞ",
+    "vanity": "",
+    "gender": 1,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714635652331
+    },
+    "lastUpdate": 1714635652331
+  },
+  "100047228465093": {
+    "userID": "100047228465093",
+    "name": "Carl Joshua Cadungog",
+    "vanity": "W41k3r.0",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714635749893
+    },
+    "lastUpdate": 1714635749893
+  },
+  "100092986247061": {
+    "userID": "100092986247061",
+    "name": "Nguyên Quý",
+    "vanity": "mahiru.03",
+    "gender": 1,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714638816903
+    },
+    "lastUpdate": 1714638816903
+  },
+  "100062459202786": {
+    "userID": "100062459202786",
+    "name": "John Ayden Regis",
+    "vanity": "Aydenpogi13",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714639991253
+    },
+    "lastUpdate": 1714639991253
+  },
+  "100011195941705": {
+    "userID": "100011195941705",
+    "name": "Andrew",
+    "vanity": "hindi.mo.ba.ako.namimiss.lods8",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714645730683
+    },
+    "lastUpdate": 1714645730683
+  },
+  "100081878745272": {
+    "userID": "100081878745272",
+    "name": "Astra Preset",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714648282214
+    },
+    "lastUpdate": 1714648282214
+  },
+  "100040494708143": {
+    "userID": "100040494708143",
+    "name": "Nguyễn Minh Tuấn",
+    "vanity": "TuanDz.03",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714654237864
+    },
+    "lastUpdate": 1714654237864
+  },
+  "100016082898626": {
+    "userID": "100016082898626",
+    "name": "Jehuu Aksionov",
+    "vanity": "xkensei",
+    "gender": 1,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714655852829
+    },
+    "lastUpdate": 1714655852829
+  },
+  "61558507057485": {
+    "userID": "61558507057485",
+    "name": "Greegmon 1",
+    "vanity": "greegmon.1",
+    "gender": 2,
+    "money": 1500,
+    "createTime": {
+      "timestamp": 1714658758690
+    },
+    "lastUpdate": 1714658758690,
+    "lastRobTime": 1714717086468,
+    "lastClaimTime": 1714717124106
+  },
+  "100089040890104": {
+    "userID": "100089040890104",
+    "name": "ۦۦۦ🐰🥕🥕🥕🐰🐰🥕🥕🥕🐰🥕🐰🥕🐰🥕🥕🐰🥕🐰🥕🥕🥕🐰🥕🥕🥕🥕🐰🥕🥕🥕🐰🥕🐰🥕🥕🐰🥕🐰🥕🐰🥕🥕🥕🐰🐰🥕🥕🥕🐰🐰🥕🥕🥕🐰🐰🥕🥕🥕🐰🥕🐰🥕🐰🥕🥕🐰🥕🐰🥕🥕🥕🐰🥕🥕🥕🥕🐰🥕🥕🥕🐰🥕🐰🥕🥕🐰🥕🐰🥕🐰🥕🥕🥕🐰🐰🥕🥕🥕🐰",
+    "vanity": "ichuwo",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714663707910
+    },
+    "lastUpdate": 1714663707910
+  },
+  "100080201409742": {
+    "userID": "100080201409742",
+    "name": "Kojiro II",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714663963856
+    },
+    "lastUpdate": 1714663963856
+  },
+  "100054303594421": {
+    "userID": "100054303594421",
+    "name": "Ja Ke",
+    "vanity": "jake.asunto12",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714664721673
+    },
+    "lastUpdate": 1714664721673
+  },
+  "61555872575146": {
+    "userID": "61555872575146",
+    "name": "Totoong Ace",
+    "vanity": "",
+    "gender": 6,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714664823968
+    },
+    "lastUpdate": 1714664823968
+  },
+  "100088690249020": {
+    "userID": "100088690249020",
+    "name": "Joshua Apostol",
+    "vanity": "",
+    "gender": 1,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714703870959
+    },
+    "lastUpdate": 1714703870959
+  },
+  "100051101392211": {
+    "userID": "100051101392211",
+    "name": "Marknaythan Cantre Fabula",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714705676232
+    },
+    "lastUpdate": 1714705676232
+  },
+  "61551535163925": {
+    "userID": "61551535163925",
+    "name": "Shikikuta",
+    "vanity": "shikimaw",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714708515727
+    },
+    "lastUpdate": 1714708515727
+  },
+  "100087623625103": {
+    "userID": "100087623625103",
+    "name": "Gio Par",
+    "vanity": "",
+    "gender": 2,
+    "money": 1399,
+    "createTime": {
+      "timestamp": 1714716858751
+    },
+    "lastUpdate": 1714716858751,
+    "lastClaimTime": 1714716972842,
+    "lastRobTime": 1714717040642
+  },
+  "100064763179341": {
+    "userID": "100064763179341",
+    "name": "ナヴェア ザカリー",
+    "vanity": "zachary.pnaveax",
+    "gender": 2,
+    "money": 1001,
+    "createTime": {
+      "timestamp": 1714717059688
+    },
+    "lastUpdate": 1714717059688
+  },
+  "100059921833675": {
+    "userID": "100059921833675",
+    "name": "Jonash Figueroa Lihao",
+    "vanity": "kiosji",
+    "gender": 2,
+    "money": 500,
+    "createTime": {
+      "timestamp": 1714717063235
+    },
+    "lastUpdate": 1714717063235
+  },
+  "61550029971952": {
+    "userID": "61550029971952",
+    "name": "Camilla Celine",
+    "vanity": "",
+    "gender": 1,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714811007449
+    },
+    "lastUpdate": 1714811007449
+  },
+  "61558051457178": {
+    "userID": "61558051457178",
+    "name": "Holy Gelo",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714811008362
+    },
+    "lastUpdate": 1714811008362
+  },
+  "61558754687552": {
+    "userID": "61558754687552",
+    "name": "Nixus Bot",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714811837800
+    },
+    "lastUpdate": 1714811837800
+  },
+  "100053840739459": {
+    "userID": "100053840739459",
+    "name": "Jandro Mill Concepcion",
+    "vanity": "jandromill.concepcion.1",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714812219471
+    },
+    "lastUpdate": 1714812219471
+  },
+  "61554770683530": {
+    "userID": "61554770683530",
+    "name": "Mark Jhonnel",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714812395897
+    },
+    "lastUpdate": 1714812395897
+  },
+  "100086499831547": {
+    "userID": "100086499831547",
+    "name": "Dynx Tyr",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714812724276
+    },
+    "lastUpdate": 1714812724276
+  },
+  "61559545700731": {
+    "userID": "61559545700731",
+    "name": "Gehlee Dangca",
+    "vanity": "",
+    "gender": 1,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714812759745
+    },
+    "lastUpdate": 1714812759745
+  },
+  "100083335537750": {
+    "userID": "100083335537750",
+    "name": "Whó Ís Jas",
+    "vanity": "jasrel17",
+    "gender": 1,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714813598488
+    },
+    "lastUpdate": 1714813598488
+  },
+  "61558986822127": {
+    "userID": "61558986822127",
+    "name": "Cristy Jane Mangobat",
+    "vanity": "",
+    "gender": 1,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714816545921
+    },
+    "lastUpdate": 1714816545921
+  },
+  "100079111750322": {
+    "userID": "100079111750322",
+    "name": "Bishesh",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714816546723
+    },
+    "lastUpdate": 1714816546723
+  },
+  "61559013970299": {
+    "userID": "61559013970299",
+    "name": "nami.",
+    "vanity": "nami.775520",
+    "gender": 1,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714817842684
+    },
+    "lastUpdate": 1714817842684
+  },
+  "100078748775019": {
+    "userID": "100078748775019",
+    "name": "Shay Ann Lopez",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1714818285218
+    },
+    "lastUpdate": 1714818285218
+  },
+  "100000768468627": {
+    "userID": "100000768468627",
+    "name": "Nil Chowdhury",
+    "vanity": "xnilxhowdhury143",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1715051331115
+    },
+    "lastUpdate": 1715051331115
+  },
+  "61553558594301": {
+    "userID": "61553558594301",
+    "name": "Ashh Prtty",
+    "vanity": "",
+    "gender": 1,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1715051331823
+    },
+    "lastUpdate": 1715051331823
+  },
+  "61552553504448": {
+    "userID": "61552553504448",
+    "name": "Cleo Bot",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1715051346062
+    },
+    "lastUpdate": 1715051346062
+  },
+  "100022702928928": {
+    "userID": "100022702928928",
+    "name": "Seiu Abingbalingbing",
+    "vanity": "xidksndjsiksks14344",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1715051915355
+    },
+    "lastUpdate": 1715051915355
+  },
+  "61558383097794": {
+    "userID": "61558383097794",
+    "name": "Ivana Toshia",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1715054425963
+    },
+    "lastUpdate": 1715054425963
+  },
+  "100053549552408": {
+    "userID": "100053549552408",
+    "name": "Cliff Vincent V. Torrevillas 󱢏",
+    "vanity": "swordigo.swordslush",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1715055718285
+    },
+    "lastUpdate": 1715055718285
+  },
+  "100027399343135": {
+    "userID": "100027399343135",
+    "name": "Mark Hitsuraan",
+    "vanity": "mark.dev69",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1715057371832
+    },
+    "lastUpdate": 1715057371832
+  },
+  "61550824156278": {
+    "userID": "61550824156278",
+    "name": "เอียนซ์ รักคุณ",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1715066575666
+    },
+    "lastUpdate": 1715066575666
+  },
+  "100051329000139": {
+    "userID": "100051329000139",
+    "name": "Haon",
+    "vanity": "haonJS",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1715118825805
+    },
+    "lastUpdate": 1715118825805
+  },
+  "100084485416971": {
+    "userID": "100084485416971",
+    "name": "Duke Agustin",
+    "vanity": "",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1715120108745
+    },
+    "lastUpdate": 1715120108745
+  },
+  "100049651441818": {
+    "userID": "100049651441818",
+    "name": "Obi",
+    "vanity": "makeylla.formaran.90",
+    "gender": 2,
+    "money": 1000,
+    "createTime": {
+      "timestamp": 1715122436739
+    },
+    "lastUpdate": 1715122436739
+  }
+}

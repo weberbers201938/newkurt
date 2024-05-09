@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visitor Information</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            margin-bottom: 20px;
+        }
+        .info {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Visitor Information</h1>
+    <div class="info">
+        <strong>Device Information:</strong>
+        <p id="device-info">Loading...</p>
+    </div>
+    <div class="info">
+        <strong>IP Address:</strong>
+        <p id="ip-address">Loading...</p>
+    </div>
+    <script>
+        // Fetch device information
+        const userAgent = navigator.userAgent;
+        const platform = navigator.platform;
+        const deviceInfo = `${userAgent} (${platform})`;
+        document.getElementById('device-info').innerText = deviceInfo;
+        
+        // Fetch IP address
+        fetch('https://api.ipify.org?format=json')
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('ip-address').innerText = data.ip;
+            })
+            .catch(error => {
+                console.error('Error fetching IP address:', error);
+                document.getElementById('ip-address').innerText = 'Error fetching IP address';
+            });
+    </script>
+</body>
+</html>
