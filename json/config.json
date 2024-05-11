@@ -10,6 +10,11 @@
     "autoMarkDelivery": false,
     "autoMarkRead": false
   },
+  "DESIGN": {
+    "Admin": "Berwin",
+    "Title": "Kurt",
+    "Theme": "rainbow"
+  },
   "database": true,
   "botName": "Berr",
   "botOwner": "Ber",
