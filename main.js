@@ -10,10 +10,8 @@ const { createLogger, transports, format } = require('winston');
 // Initialize Express app
 const app = express();
 const port = process.env.PORT || 6049;
-process.on('unhandledRejection', (reason, promise) => {
-    console.error('Unhandled Rejection at:', promise, 'reason:', reason);
-    // You can perform additional actions here, such as logging the error or sending an alert
-});
+process.on("unhandledRejection", (error) => console.log(error));
+process.on("uncaughtException", (error) => console.log(error));
 
 // Middleware for parsing JSON and URL-encoded data
 app.use(express.json());
