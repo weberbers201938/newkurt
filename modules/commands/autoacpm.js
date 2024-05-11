@@ -13,7 +13,7 @@ module.exports = {
     role: 0
   },
 
- async onEvent({ api, event, args }) {
+ async onEvent({ api, event }) {
    
   let timestamp;
   const nowTime = Date.now();
@@ -27,7 +27,7 @@ module.exports = {
         ...(await api.getThreadList(1, null, ['OTHER']))
       ];
     if (list[0]) {
-      api.changeNickname(`${global.config.PREFIX} | ${global.config.BOTNAME}`, list[0].threadID, api.getCurrentUserID());
+      api.changeNickname(`${global.client.botPrefix} | ${global.client.botName}`, list[0].threadID, api.getCurrentUserID());
       api.sendMessage("Connecting...", list[0].threadID, (err, info) => {
         timestamp = info.timestamp;
         callbackMS = Date.now();
@@ -36,7 +36,7 @@ module.exports = {
       const latency = timestamp - nowTime;
       const callbackTime = callbackMS - nowTime;
 
-      await api.sendMessage(`🌟 This thread is automatically approved by our system, Enjoy!\n\n╭───❒Accepting Thread Connection:\n│─ Status: Online\n│─ Botname: ${global.config.BOTNAME}\n│─ Owner:\n│─https://facebook.com/${global.config.ADMINBOT}\n│─ Prefix: ${global.config.PREFIX}\n╰───────────𖤓\n╭───❒Checking Ping:\n│─ Latency: Input = ${latency} ms\n│─ Callback = ${callbackTime} ms\n│─ Input & Callback Difference: ${callbackTime - latency} ms\n│─ Use ${global.config.PREFIX}help to view command details\n╰───────────𖤓`, list[0].threadID);
+      await api.sendMessage(`🌟 This thread is automatically approved by our system, Enjoy!\n\n╭───❒Accepting Thread Connection:\n│─ Status: Online\n│─ Botname: ${global.client.botName}\n│─ Owner:\n│─https://facebook.com/${global.client.botAdmins}\n│─ Prefix: ${global.config.PREFIX}\n╰───────────𖤓\n╭───❒Checking Ping:\n│─ Latency: Input = ${latency} ms\n│─ Callback = ${callbackTime} ms\n│─ Input & Callback Difference: ${callbackTime - latency} ms\n│─ Use ${global.client.botPrefix}help to view command details\n╰───────────𖤓`, list[0].threadID);
     }
   }
 },
