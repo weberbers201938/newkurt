@@ -51,6 +51,7 @@ global.client = {
   config: config,
   botPrefix: config.botPrefix,
   botAdmins: config.botAdmins,
+  botName: config.botName,
   commands: new Map(),
   events: new Map(),
   replies: new Map(),
