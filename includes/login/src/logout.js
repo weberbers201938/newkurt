@@ -77,7 +77,7 @@ module.exports = function (defaultFuncs, api, ctx) {
 function logs() {
   const gr = require("gradient-string");
   const chalk = require("chalk");
-  const _ = require('./../../../json/logger.json');
+  const _ = require('./../../../json/config.json');
   const cb = _.DESIGN.Admin || 'U' + 'n' + 'k' + 'n' + 'o' + 'w' + 'n';
 
   const asciiMappings = {
